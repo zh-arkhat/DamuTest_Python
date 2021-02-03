@@ -1,1 +1,1 @@
-# DamuTest_Python
+# Репоризатория для авто теста DamuTest_Python
